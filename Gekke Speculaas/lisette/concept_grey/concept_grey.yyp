@@ -7,6 +7,7 @@
     {"id":{"name":"o_jump","path":"objects/o_jump/o_jump.yy",},"order":6,},
     {"id":{"name":"o_background","path":"objects/o_background/o_background.yy",},"order":3,},
     {"id":{"name":"o_character","path":"objects/o_character/o_character.yy",},"order":0,},
+    {"id":{"name":"NiceSliceBox","path":"scripts/NiceSliceBox/NiceSliceBox.yy",},"order":0,},
     {"id":{"name":"s_light","path":"sprites/s_light/s_light.yy",},"order":2,},
     {"id":{"name":"s_jump","path":"sprites/s_jump/s_jump.yy",},"order":3,},
     {"id":{"name":"o_surface","path":"objects/o_surface/o_surface.yy",},"order":4,},
@@ -56,7 +57,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.7.603",
   },
   "resourceVersion": "1.4",
   "name": "concept_grey",
