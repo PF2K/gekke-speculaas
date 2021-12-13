@@ -6,7 +6,7 @@ if(surface_exists(lighting_surface) == false) {
 
 surface_set_target(lighting_surface); 
 
-draw_clear_alpha(c_black,0.75); // draw a clear alpha over the screen with opacity of 0.75
+draw_clear_alpha(c_black,0.20); // draw a clear alpha over the screen with opacity of 0.50
 
 with(o_light_bulb){
 	gpu_set_blendmode(bm_subtract);
