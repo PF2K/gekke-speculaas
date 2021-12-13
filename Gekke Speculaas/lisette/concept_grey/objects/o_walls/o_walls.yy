@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_walls",
-    "path": "sprites/s_walls/s_walls.yy",
+    "name": "Sewer_Pattern",
+    "path": "sprites/Sewer_Pattern/Sewer_Pattern.yy",
   },
   "solid": false,
   "visible": true,

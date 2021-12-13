@@ -3,6 +3,7 @@
     {"id":{"name":"s_character_still","path":"sprites/s_character_still/s_character_still.yy",},"order":4,},
     {"id":{"name":"o_bunny","path":"objects/o_bunny/o_bunny.yy",},"order":7,},
     {"id":{"name":"s_character","path":"sprites/s_character/s_character.yy",},"order":0,},
+    {"id":{"name":"Sewer_Pattern___Back","path":"sprites/Sewer_Pattern___Back/Sewer_Pattern___Back.yy",},"order":1,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":5,},
     {"id":{"name":"s_TextBox","path":"sprites/s_TextBox/s_TextBox.yy",},"order":0,},
     {"id":{"name":"o_jump","path":"objects/o_jump/o_jump.yy",},"order":6,},
@@ -14,9 +15,12 @@
     {"id":{"name":"o_surface","path":"objects/o_surface/o_surface.yy",},"order":4,},
     {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},"order":5,},
     {"id":{"name":"s_walls","path":"sprites/s_walls/s_walls.yy",},"order":1,},
+    {"id":{"name":"Sewer_Pattern___Back11","path":"sprites/Sewer_Pattern___Back11/Sewer_Pattern___Back11.yy",},"order":2,},
     {"id":{"name":"o_light","path":"objects/o_light/o_light.yy",},"order":2,},
     {"id":{"name":"o_walls","path":"objects/o_walls/o_walls.yy",},"order":1,},
+    {"id":{"name":"Sewer_Pattern","path":"sprites/Sewer_Pattern/Sewer_Pattern.yy",},"order":0,},
     {"id":{"name":"s_bunny","path":"sprites/s_bunny/s_bunny.yy",},"order":6,},
+    {"id":{"name":"Sewer_Pattern12","path":"sprites/Sewer_Pattern12/Sewer_Pattern12.yy",},"order":3,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -50,12 +54,14 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Text Box Assets.yy","order":8,"resourceVersion":"1.0","name":"Text Box Assets","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/assets.yy","order":12,"resourceVersion":"1.0","name":"assets","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
     {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"texturegroup1","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
