@@ -4,6 +4,7 @@
     {"id":{"name":"o_bunny","path":"objects/o_bunny/o_bunny.yy",},"order":7,},
     {"id":{"name":"s_character","path":"sprites/s_character/s_character.yy",},"order":0,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":5,},
+    {"id":{"name":"s_TextBox","path":"sprites/s_TextBox/s_TextBox.yy",},"order":0,},
     {"id":{"name":"o_jump","path":"objects/o_jump/o_jump.yy",},"order":6,},
     {"id":{"name":"o_background","path":"objects/o_background/o_background.yy",},"order":3,},
     {"id":{"name":"o_character","path":"objects/o_character/o_character.yy",},"order":0,},
@@ -48,6 +49,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Text Box Assets.yy","order":8,"resourceVersion":"1.0","name":"Text Box Assets","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

@@ -14,7 +14,7 @@ var _columns = _w div _size;
 var _rows = _h div _size;
 
 //Corners
-
+draw_sprite_part(argument0, 0, 0, _size, _size);
 //Edges
 
 //Center
