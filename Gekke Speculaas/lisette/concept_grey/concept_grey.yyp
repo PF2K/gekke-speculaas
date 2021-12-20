@@ -10,8 +10,14 @@
     {"id":{"name":"o_jump","path":"objects/o_jump/o_jump.yy",},"order":6,},
     {"id":{"name":"s_light_flash","path":"sprites/s_light_flash/s_light_flash.yy",},"order":2,},
     {"id":{"name":"o_flash_light","path":"objects/o_flash_light/o_flash_light.yy",},"order":13,},
+<<<<<<< HEAD
     {"id":{"name":"s_light_bulb","path":"sprites/s_light_bulb/s_light_bulb.yy",},"order":1,},
     {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},"order":3,},
+=======
+    {"id":{"name":"s_light_bulb","path":"sprites/s_light_bulb/s_light_bulb.yy",},"order":10,},
+    {"id":{"name":"s_Ambiance","path":"sounds/s_Ambiance/s_Ambiance.yy",},"order":0,},
+    {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},"order":9,},
+>>>>>>> 05307cd8a161255b19d0463400c49d02fc287f86
     {"id":{"name":"o_light_bulb","path":"objects/o_light_bulb/o_light_bulb.yy",},"order":10,},
     {"id":{"name":"o_mirror","path":"objects/o_mirror/o_mirror.yy",},"order":9,},
     {"id":{"name":"o_background","path":"objects/o_background/o_background.yy",},"order":3,},
@@ -73,7 +79,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.6.595",
+    "IDEVersion": "2.3.7.606",
   },
   "resourceVersion": "1.4",
   "name": "concept_grey",
