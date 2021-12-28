@@ -29,3 +29,11 @@ y = y + vsp;
 
 // facing the right direction 
 if (hsp != 0) image_xscale = sign(hsp);
+
+
+// making the npc walk or move
+
+if (o_character.x > o_bunny.x) and (o_character.y ==  o_bunny.y)  // when character is past the bunny it starts moving
+{
+	mp_potential_step(o_character.x,o_character.y,1.2,false)
+}
